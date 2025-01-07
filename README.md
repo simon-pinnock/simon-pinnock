@@ -1,4 +1,9 @@
-## Hi there 👋
+
+# Simon Pinnock
+ESA Climate Office \
+European Space Agency \
+Harwell, UK \
+simon.pinnock@esa.int
 
 <!--
 **simon-pinnock/simon-pinnock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
